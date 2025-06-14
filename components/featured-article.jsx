@@ -43,3 +43,5 @@ const featuredArticle = () => {
         </section>
     )
 }
+
+export default FeaturedArticle
