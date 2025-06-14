@@ -44,4 +44,4 @@ const featuredArticle = () => {
     )
 }
 
-export default FeaturedArticle
+export default featuredArticle
